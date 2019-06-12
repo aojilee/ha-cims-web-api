@@ -1,0 +1,1 @@
+<h1>Welcome, it's demo page of HA-CIMS-WEB-API<h1>
